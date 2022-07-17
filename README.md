@@ -10,6 +10,8 @@
 * jQuery
 * HTML
 * CSS
+* Webpack
+* Node
 
 ## Setup/Installation Requirements
 
